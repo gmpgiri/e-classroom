@@ -1,2 +1,2 @@
 # e-classroom
-application that takes the class lectures as notes
+a modern approach to class rooms
